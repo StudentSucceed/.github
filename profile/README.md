@@ -5,7 +5,7 @@
 We're building the platform where international students and recent grads find jobs, prepare for interviews, and navigate the visa process, all in one place.
 
 <p align="center">
-  <img src="profile/hero.png" alt="StudentSucceed - Never Walk Into an Interview Unprepared" width="700">
+  <img src="https://raw.githubusercontent.com/StudentSucceed/.github/main/profile/hero.png" alt="StudentSucceed - Never Walk Into an Interview Unprepared" width="700">
 </p>
 
 ### What we build
@@ -18,7 +18,7 @@ We're building the platform where international students and recent grads find j
 - **Data Pipeline** collecting jobs from Ashby, Lever, Greenhouse, Adzuna, USAJobs, and more
 
 <p align="center">
-  <img src="profile/ai-interview-demo.png" alt="AI Interview Session - Real-time scoring and honest feedback" width="700">
+  <img src="https://raw.githubusercontent.com/StudentSucceed/.github/main/profile/ai-interview-demo.png" alt="AI Interview Session - Real-time scoring and honest feedback" width="700">
 </p>
 
 ### Why this matters
