@@ -4,6 +4,10 @@
 
 We're building the platform where international students and recent grads find jobs, prepare for interviews, and navigate the visa process, all in one place.
 
+<p align="center">
+  <img src="profile/hero.png" alt="StudentSucceed - Never Walk Into an Interview Unprepared" width="700">
+</p>
+
 ### What we build
 
 - **100K+ Job Listings** with real H-1B visa sponsorship data from DOL filings
@@ -12,6 +16,10 @@ We're building the platform where international students and recent grads find j
 - **Resume Builder + ATS Scoring** to beat applicant tracking systems
 - **Recruiter Lookup** to find hiring contacts at any company
 - **Data Pipeline** collecting jobs from Ashby, Lever, Greenhouse, Adzuna, USAJobs, and more
+
+<p align="center">
+  <img src="profile/ai-interview-demo.png" alt="AI Interview Session - Real-time scoring and honest feedback" width="700">
+</p>
 
 ### Why this matters
 
